@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BestToDo</string>
+    <string name="title_home">Home</string>
+    <string name="title_tags">All lists</string>
+    <string name="title_calendar">Calendar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="context_task_delete">delete</string>
+</resources>
